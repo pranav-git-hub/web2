@@ -1,8 +1,16 @@
-# React + Vite
+Personal Website (Production Build)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the production-ready, obfuscated build of my personal website.
 
-Currently, two official plugins are available:
+The original source code is maintained in a separate private repository.
+This repo exists only for deployment and hosting purposes, and includes the compiled dist output generated during the build process.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Notes
+
+Source code is intentionally obfuscated to protect implementation details.
+
+This repository is not intended for development or contributions.
+
+Any updates here reflect a new production build from the original codebase.
+
+If you’re interested in the implementation, design decisions, or tech stack, feel free to reach out.
